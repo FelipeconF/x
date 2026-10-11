@@ -8,7 +8,7 @@ tsset datem
 label variable datem "Fecha Mensual"
 
 * ------------------------------------------------------------------------------
-* 3. TRANSFORMACIÓN DE VARIABLES (REGLAS DEL SEMINARIO ITAM)
+* 3. TRANSFORMACIÓN DE VARIABLES (REGLAS DEL SEMINARIO ITAM
 * ------------------------------------------------------------------------------
 * Regla del curso: 
 * - Variables en niveles/índices se transforman en logaritmos (x 100).
